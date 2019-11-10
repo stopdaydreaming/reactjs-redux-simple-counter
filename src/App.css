@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: whitesmoke;
+  height: 100vh;
+}
+button {
+  margin: 20px;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
